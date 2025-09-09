@@ -135,8 +135,6 @@ $pluto: #FF8732;
     transform-style: preserve-3d;
 }
 
-// Unforunately we cant be super dynamic with this as 
-// perspective changes the scales of objects
 %trigger {
     @extend %absPosition;
 
